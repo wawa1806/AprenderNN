@@ -12,7 +12,6 @@ uv run python verificar_entorno.py # comprobar que todo funciona
 uv add <paquete>                   # instalar algo nuevo
 ```
 
-En VS Code: abre la carpeta y elige el intérprete `.venv`.
 
 ## Lecciones
 
@@ -27,10 +26,4 @@ En VS Code: abre la carpeta y elige el intérprete `.venv`.
 | `07_gpt` | Construyamos GPT desde cero |
 | `08_tokenizer` | Construyamos el tokenizer de GPT |
 
-`data/` tiene `names.txt` (makemore) y `tinyshakespeare.txt` (GPT).
-
-## Método por lección
-
-1. **Primera pasada:** ver el video escribiendo el código a la par (sin copiar y pegar).
-2. **Segunda pasada:** uno o dos días después, reescribirlo desde cero sin mirar el video.
-3. Revisar con Claude y comparar los gradientes con PyTorch.
+Notebooks se trabajaron en Colab.
